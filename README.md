@@ -26,7 +26,7 @@ Use this plugin if you want access to the bleeding edge of available blocks for 
 
 To find out more about the blocks and how to use them, [check out the documentation on WooCommerce.com](https://docs.woocommerce.com/document/woocommerce-blocks/).
 
-If you want to see what we're working on for future versions, or want to help out, read on!
+If you want to see what we're working on for future versions, or want to help out, read on.
 
 ### Code Documentation
 
