@@ -86,6 +86,22 @@ Release and roadmap notes available on the [WooCommerce Developers Blog](https:/
 
 == Changelog ==
 
+= 10.9.0 - 2022-05-19 =
+
+#### Enhancements
+
+- This is my changelog (Feature plugin)!. ([19](https://github.com/tarhi-saad/woocommerce-gutenberg-products-block/pull/19))
+
+#### Bug Fixes
+
+- This is my changelog (WooCommerce Core)!. ([18](https://github.com/tarhi-saad/woocommerce-gutenberg-products-block/pull/18))
+
+#### Various
+
+- This is my changelog (Experimental)!. ([20](https://github.com/tarhi-saad/woocommerce-gutenberg-products-block/pull/20))
+- This is my changelog!. ([17](https://github.com/tarhi-saad/woocommerce-gutenberg-products-block/pull/17))
+
+
 = 7.6.0 - 2022-05-09 =
 
 #### Enhancements
