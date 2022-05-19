@@ -6,7 +6,7 @@
 ![PHP Coding Standards](https://github.com/woocommerce/woocommerce-gutenberg-products-block/workflows/PHP%20Coding%20Standards/badge.svg?branch=trunk)
 ![Automated tests](https://github.com/woocommerce/woocommerce-gutenberg-products-block/workflows/Automated%20tests/badge.svg?branch=trunk)
 
-This is KK the feature plugin for WooCommerce + Gutenberg. This plugin serves as a space to iterate and explore new Blocks and updates to existing blocks for WooCommerce, and how WooCommerce might work with the block editor.
+This is the feature plugin for WooCommerce + Gutenberg. This plugin serves as a space to iterate and explore new Blocks and updates to existing blocks for WooCommerce, and how WooCommerce might work with the block editor.
 
 Use this plugin if you want access to the bleeding edge of available blocks for WooCommerce. However, stable blocks are bundled into WooCommerce, and can be added from the "WooCommerce" section in the block inserter.
 
@@ -15,12 +15,12 @@ Use this plugin if you want access to the bleeding edge of available blocks for 
 
 ## Table of Contents <!-- omit in toc -->
 
--   [Documentation](#documentation)
-    -   [Code Documentation](#code-documentation)
--   [Installing the plugin version](#installing-the-plugin-version)
--   [Installing the development version](#installing-the-development-version)
--   [Getting started with block development](#getting-started-with-block-development)
--   [Long-term vision](#long-term-vision)
+- [Documentation](#documentation)
+  - [Code Documentation](#code-documentation)
+- [Installing the plugin version](#installing-the-plugin-version)
+- [Installing the development version](#installing-the-development-version)
+- [Getting started with block development](#getting-started-with-block-development)
+- [Long-term vision](#long-term-vision)
 
 ## Documentation
 
