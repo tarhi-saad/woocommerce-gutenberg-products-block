@@ -86,6 +86,13 @@ Release and roadmap notes available on the [WooCommerce Developers Blog](https:/
 
 == Changelog ==
 
+= 10.9.5 - 2022-05-20 =
+
+#### Bug Fixes
+
+- This is my changelog (Patch V3)!. ([69](https://github.com/tarhi-saad/woocommerce-gutenberg-products-block/pull/69))
+
+
 = 10.9.1 - 2022-05-20 =
 
 #### Various
