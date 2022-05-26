@@ -4,7 +4,7 @@ Tags: gutenberg, woocommerce, woo commerce, products, blocks, woocommerce blocks
 Requires at least: 3.5
 Tested up to: 4.2
 Requires PHP: 7.0
-Stable tag: 7.7.0-dev
+Stable tag: 7.7.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -86,27 +86,17 @@ Release and roadmap notes available on the [WooCommerce Developers Blog](https:/
 
 == Changelog ==
 
-= 10.9.1 - 2022-05-20 =
-
-#### Various
-
-- This is my changelog (Patch)!. ([58](https://github.com/tarhi-saad/woocommerce-gutenberg-products-block/pull/58))
-
-
-= 10.9.0 - 2022-05-20 =
+= 7.7.0 - 2022-05-24 =
 
 #### Enhancements
 
-- This is my changelog (Feature plugin)!. ([19](https://github.com/tarhi-saad/woocommerce-gutenberg-products-block/pull/19))
+- Add the `Fixed image` and `Repeated image` media controls to the Featured Product block. ([6344](https://github.com/woocommerce/woocommerce-blocks/pull/6344))
 
 #### Bug Fixes
 
-- This is my changelog (WooCommerce Core)!. ([18](https://github.com/tarhi-saad/woocommerce-gutenberg-products-block/pull/18))
-
-#### Various
-
-- This is my changelog (Experimental)!. ([20](https://github.com/tarhi-saad/woocommerce-gutenberg-products-block/pull/20))
-
+- Remove bold styles from All Products block. ([6436](https://github.com/woocommerce/woocommerce-blocks/pull/6436))
+- Fix an issue where the Cart & Checkout could have some of the locked inner blocks removed. ([6419](https://github.com/woocommerce/woocommerce-blocks/pull/6419))
+- Fix broken translation in Cart/Checkout blocks. ([6420](https://github.com/woocommerce/woocommerce-blocks/pull/6420))
 
 = 7.6.0 - 2022-05-09 =
 
