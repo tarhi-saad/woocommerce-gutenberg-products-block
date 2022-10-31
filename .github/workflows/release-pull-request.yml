@@ -24,7 +24,7 @@ jobs:
                   git commit -m 'Empty commit for release pull request' --allow-empty
                   git push
             - name: Create Release Pull Request
-              uses: woocommerce/automations@add/testing-instructions-automation
+              uses: opr/automations@add/testing-instructions-automation
               # uses: woocommerce/automations@add/min-required-wc-wp-versions
               with:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
