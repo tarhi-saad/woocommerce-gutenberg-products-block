@@ -79,6 +79,13 @@ Release and roadmap notes available on the [WooCommerce Developers Blog](https:/
 
 == Changelog ==
 
+= 11.0.1 - 2022-11-02 =
+
+#### Various
+
+- This is my changelog (Patch)!. ([58](https://github.com/tarhi-saad/woocommerce-gutenberg-products-block/pull/58))
+
+
 = 8.8.1 - 2022-10-28 =
 
 #### Bug fixes
