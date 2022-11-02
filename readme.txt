@@ -79,6 +79,23 @@ Release and roadmap notes available on the [WooCommerce Developers Blog](https:/
 
 == Changelog ==
 
+= 11.0.0 - 2022-11-02 =
+
+#### Enhancements
+
+- Add suggested changelog entry here. ([73](https://github.com/tarhi-saad/woocommerce-gutenberg-products-block/pull/73))
+
+#### Bug Fixes
+
+- Improve visual consistency between block links. ([69](https://github.com/tarhi-saad/woocommerce-gutenberg-products-block/pull/69))
+- This is my changelog (Patch V2)!. ([62](https://github.com/tarhi-saad/woocommerce-gutenberg-products-block/pull/62))
+- This is my changelog (skip)!. ([21](https://github.com/tarhi-saad/woocommerce-gutenberg-products-block/pull/21))
+
+#### Various
+
+- This is my changelog (Patch)!. ([58](https://github.com/tarhi-saad/woocommerce-gutenberg-products-block/pull/58))
+
+
 = 8.8.1 - 2022-10-28 =
 
 #### Bug fixes
